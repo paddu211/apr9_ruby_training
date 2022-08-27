@@ -1,0 +1,5 @@
+This is for git demo:
+1.GitHub account creation
+2.GitHub public repo with readme
+3.clone into local system
+4.sample.txt push to GitHub
