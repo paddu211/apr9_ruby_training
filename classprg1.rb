@@ -20,7 +20,11 @@ class Class3
 end
 
 
+
+
 obj=Class2.new
 obj.method1
+
+obj . method1()  #using spaces before and after dot(.)
 
 Class3.new.method3
